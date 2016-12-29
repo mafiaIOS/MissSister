@@ -7,27 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4D6A9E151E13CDA70017B1C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D6A9E141E13CDA70017B1C7 /* main.m */; };
-		4D6A9E181E13CDA70017B1C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D6A9E171E13CDA70017B1C7 /* AppDelegate.m */; };
-		4D6A9E201E13CDA80017B1C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D6A9E1F1E13CDA80017B1C7 /* Assets.xcassets */; };
-		4D6A9E231E13CDA80017B1C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D6A9E211E13CDA80017B1C7 /* LaunchScreen.storyboard */; };
-		4D6A9E2C1E14BF690017B1C7 /* XMGViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D6A9E2B1E14BF690017B1C7 /* XMGViewController.m */; };
+		4D7C69F81E152603009C77E5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D7C69F71E152603009C77E5 /* main.m */; };
+		4D7C69FB1E152603009C77E5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D7C69FA1E152603009C77E5 /* AppDelegate.m */; };
+		4D7C69FE1E152603009C77E5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D7C69FD1E152603009C77E5 /* ViewController.m */; };
+		4D7C6A011E152603009C77E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D7C69FF1E152603009C77E5 /* Main.storyboard */; };
+		4D7C6A031E152603009C77E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D7C6A021E152603009C77E5 /* Assets.xcassets */; };
+		4D7C6A061E152603009C77E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D7C6A041E152603009C77E5 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4D6A9E101E13CDA70017B1C7 /* 01-百思不得姐.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "01-百思不得姐.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4D6A9E141E13CDA70017B1C7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		4D6A9E161E13CDA70017B1C7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		4D6A9E171E13CDA70017B1C7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		4D6A9E1F1E13CDA80017B1C7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		4D6A9E221E13CDA80017B1C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		4D6A9E241E13CDA80017B1C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4D6A9E2A1E14BF690017B1C7 /* XMGViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMGViewController.h; sourceTree = "<group>"; };
-		4D6A9E2B1E14BF690017B1C7 /* XMGViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XMGViewController.m; sourceTree = "<group>"; };
+		4D7C69F31E152603009C77E5 /* empty.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = empty.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4D7C69F71E152603009C77E5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		4D7C69F91E152603009C77E5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		4D7C69FA1E152603009C77E5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		4D7C69FC1E152603009C77E5 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		4D7C69FD1E152603009C77E5 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		4D7C6A001E152603009C77E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4D7C6A021E152603009C77E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4D7C6A051E152603009C77E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4D7C6A071E152603009C77E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		4D6A9E0D1E13CDA70017B1C7 /* Frameworks */ = {
+		4D7C69F01E152603009C77E5 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,41 +39,42 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4D6A9E071E13CDA70017B1C7 = {
+		4D7C69EA1E152603009C77E5 = {
 			isa = PBXGroup;
 			children = (
-				4D6A9E121E13CDA70017B1C7 /* 01-百思不得姐 */,
-				4D6A9E111E13CDA70017B1C7 /* Products */,
+				4D7C69F51E152603009C77E5 /* empty */,
+				4D7C69F41E152603009C77E5 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		4D6A9E111E13CDA70017B1C7 /* Products */ = {
+		4D7C69F41E152603009C77E5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4D6A9E101E13CDA70017B1C7 /* 01-百思不得姐.app */,
+				4D7C69F31E152603009C77E5 /* empty.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4D6A9E121E13CDA70017B1C7 /* 01-百思不得姐 */ = {
+		4D7C69F51E152603009C77E5 /* empty */ = {
 			isa = PBXGroup;
 			children = (
-				4D6A9E161E13CDA70017B1C7 /* AppDelegate.h */,
-				4D6A9E171E13CDA70017B1C7 /* AppDelegate.m */,
-				4D6A9E2A1E14BF690017B1C7 /* XMGViewController.h */,
-				4D6A9E2B1E14BF690017B1C7 /* XMGViewController.m */,
-				4D6A9E131E13CDA70017B1C7 /* Supporting Files */,
+				4D7C69F91E152603009C77E5 /* AppDelegate.h */,
+				4D7C69FA1E152603009C77E5 /* AppDelegate.m */,
+				4D7C69FC1E152603009C77E5 /* ViewController.h */,
+				4D7C69FD1E152603009C77E5 /* ViewController.m */,
+				4D7C69FF1E152603009C77E5 /* Main.storyboard */,
+				4D7C6A021E152603009C77E5 /* Assets.xcassets */,
+				4D7C6A041E152603009C77E5 /* LaunchScreen.storyboard */,
+				4D7C6A071E152603009C77E5 /* Info.plist */,
+				4D7C69F61E152603009C77E5 /* Supporting Files */,
 			);
-			path = "01-百思不得姐";
+			path = empty;
 			sourceTree = "<group>";
 		};
-		4D6A9E131E13CDA70017B1C7 /* Supporting Files */ = {
+		4D7C69F61E152603009C77E5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				4D6A9E1F1E13CDA80017B1C7 /* Assets.xcassets */,
-				4D6A9E211E13CDA80017B1C7 /* LaunchScreen.storyboard */,
-				4D6A9E241E13CDA80017B1C7 /* Info.plist */,
-				4D6A9E141E13CDA70017B1C7 /* main.m */,
+				4D7C69F71E152603009C77E5 /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -79,40 +82,39 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4D6A9E0F1E13CDA70017B1C7 /* 01-百思不得姐 */ = {
+		4D7C69F21E152603009C77E5 /* empty */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4D6A9E271E13CDA80017B1C7 /* Build configuration list for PBXNativeTarget "01-百思不得姐" */;
+			buildConfigurationList = 4D7C6A0A1E152603009C77E5 /* Build configuration list for PBXNativeTarget "empty" */;
 			buildPhases = (
-				4D6A9E0C1E13CDA70017B1C7 /* Sources */,
-				4D6A9E0D1E13CDA70017B1C7 /* Frameworks */,
-				4D6A9E0E1E13CDA70017B1C7 /* Resources */,
+				4D7C69EF1E152603009C77E5 /* Sources */,
+				4D7C69F01E152603009C77E5 /* Frameworks */,
+				4D7C69F11E152603009C77E5 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "01-百思不得姐";
-			productName = "01-百思不得姐";
-			productReference = 4D6A9E101E13CDA70017B1C7 /* 01-百思不得姐.app */;
+			name = empty;
+			productName = empty;
+			productReference = 4D7C69F31E152603009C77E5 /* empty.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		4D6A9E081E13CDA70017B1C7 /* Project object */ = {
+		4D7C69EB1E152603009C77E5 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				CLASSPREFIX = XMG;
 				LastUpgradeCheck = 0810;
 				ORGANIZATIONNAME = "杨庆";
 				TargetAttributes = {
-					4D6A9E0F1E13CDA70017B1C7 = {
+					4D7C69F21E152603009C77E5 = {
 						CreatedOnToolsVersion = 8.1;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = 4D6A9E0B1E13CDA70017B1C7 /* Build configuration list for PBXProject "01-百思不得姐" */;
+			buildConfigurationList = 4D7C69EE1E152603009C77E5 /* Build configuration list for PBXProject "empty" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -120,46 +122,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 4D6A9E071E13CDA70017B1C7;
-			productRefGroup = 4D6A9E111E13CDA70017B1C7 /* Products */;
+			mainGroup = 4D7C69EA1E152603009C77E5;
+			productRefGroup = 4D7C69F41E152603009C77E5 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4D6A9E0F1E13CDA70017B1C7 /* 01-百思不得姐 */,
+				4D7C69F21E152603009C77E5 /* empty */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		4D6A9E0E1E13CDA70017B1C7 /* Resources */ = {
+		4D7C69F11E152603009C77E5 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4D6A9E231E13CDA80017B1C7 /* LaunchScreen.storyboard in Resources */,
-				4D6A9E201E13CDA80017B1C7 /* Assets.xcassets in Resources */,
+				4D7C6A061E152603009C77E5 /* LaunchScreen.storyboard in Resources */,
+				4D7C6A031E152603009C77E5 /* Assets.xcassets in Resources */,
+				4D7C6A011E152603009C77E5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		4D6A9E0C1E13CDA70017B1C7 /* Sources */ = {
+		4D7C69EF1E152603009C77E5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4D6A9E181E13CDA70017B1C7 /* AppDelegate.m in Sources */,
-				4D6A9E151E13CDA70017B1C7 /* main.m in Sources */,
-				4D6A9E2C1E14BF690017B1C7 /* XMGViewController.m in Sources */,
+				4D7C69FE1E152603009C77E5 /* ViewController.m in Sources */,
+				4D7C69FB1E152603009C77E5 /* AppDelegate.m in Sources */,
+				4D7C69F81E152603009C77E5 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		4D6A9E211E13CDA80017B1C7 /* LaunchScreen.storyboard */ = {
+		4D7C69FF1E152603009C77E5 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4D6A9E221E13CDA80017B1C7 /* Base */,
+				4D7C6A001E152603009C77E5 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4D7C6A041E152603009C77E5 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4D7C6A051E152603009C77E5 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -167,7 +178,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		4D6A9E251E13CDA80017B1C7 /* Debug */ = {
+		4D7C6A081E152603009C77E5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -215,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		4D6A9E261E13CDA80017B1C7 /* Release */ = {
+		4D7C6A091E152603009C77E5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -257,28 +268,24 @@
 			};
 			name = Release;
 		};
-		4D6A9E281E13CDA80017B1C7 /* Debug */ = {
+		4D7C6A0B1E152603009C77E5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				INFOPLIST_FILE = "01-百思不得姐/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				INFOPLIST_FILE = empty/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yq.-1------";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yq.empty;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		4D6A9E291E13CDA80017B1C7 /* Release */ = {
+		4D7C6A0C1E152603009C77E5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				INFOPLIST_FILE = "01-百思不得姐/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				INFOPLIST_FILE = empty/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yq.-1------";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yq.empty;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -286,24 +293,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4D6A9E0B1E13CDA70017B1C7 /* Build configuration list for PBXProject "01-百思不得姐" */ = {
+		4D7C69EE1E152603009C77E5 /* Build configuration list for PBXProject "empty" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4D6A9E251E13CDA80017B1C7 /* Debug */,
-				4D6A9E261E13CDA80017B1C7 /* Release */,
+				4D7C6A081E152603009C77E5 /* Debug */,
+				4D7C6A091E152603009C77E5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4D6A9E271E13CDA80017B1C7 /* Build configuration list for PBXNativeTarget "01-百思不得姐" */ = {
+		4D7C6A0A1E152603009C77E5 /* Build configuration list for PBXNativeTarget "empty" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4D6A9E281E13CDA80017B1C7 /* Debug */,
-				4D6A9E291E13CDA80017B1C7 /* Release */,
+				4D7C6A0B1E152603009C77E5 /* Debug */,
+				4D7C6A0C1E152603009C77E5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 4D6A9E081E13CDA70017B1C7 /* Project object */;
+	rootObject = 4D7C69EB1E152603009C77E5 /* Project object */;
 }
